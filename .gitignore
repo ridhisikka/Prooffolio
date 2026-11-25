@@ -1,0 +1,16 @@
+node_modules/
+www/
+.env
+.env.local
+.vercel/
+# Android build output and secrets (keep android/ itself in git once generated)
+android/app/build/
+android/build/
+android/.gradle/
+android/local.properties
+android/app/src/main/assets/public/
+android/capacitor-cordova-android-plugins/
+*.keystore
+*.jks
+key.properties
+.DS_Store

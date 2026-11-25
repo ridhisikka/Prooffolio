@@ -1,0 +1,12 @@
+{
+  "appId": "com.prooffolio.app",
+  "appName": "Prooffolio",
+  "webDir": "www",
+  "backgroundColor": "#FBF6EE",
+  "server": { "androidScheme": "https" },
+  "android": { "allowMixedContent": false, "backgroundColor": "#FBF6EE" },
+  "plugins": {
+    "SplashScreen": { "launchShowDuration": 1200, "launchAutoHide": false, "backgroundColor": "#1E1A16", "showSpinner": false },
+    "StatusBar": { "style": "DARK", "backgroundColor": "#FBF6EE", "overlaysWebView": false }
+  }
+}
